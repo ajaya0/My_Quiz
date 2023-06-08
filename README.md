@@ -7,6 +7,6 @@ The quiz application provides navigation buttons to move between questions. User
 
 After completing all the questions, the user is directed to a results page that displays their final score and performance. The results page also provides an option to restart the quiz if the user wishes to retake it. Usage Instructions:
 
-Access the webpage by visiting https://rashmi7205.github.io/quizapp/ in a web browser.
+Access the webpage by visiting https://ajaya0.github.io/My_Quiz/ in a web browser.
 # Conclusion
 The quiz application located at https://ajaya0.github.io/My_Quiz/ offers an interactive and engaging platform for users to test their knowledge on various topics. By following the usage instructions and answering the questions within the given time, users can assess their understanding and improve their knowledge in an enjoyable manner.
